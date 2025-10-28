@@ -44,6 +44,7 @@ These visualizations help in understanding how populations vary across regions a
 
 
 | `prodigy_ds_task1.ipynb` | Jupyter notebook with all visualizations and analysis |
+
 | `world_population.csv` | Dataset containing population details by country |
 
 ---
